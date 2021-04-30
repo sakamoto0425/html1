@@ -938,3 +938,6 @@ address {
     color: #fff;
     font-size: 12px;
 }
+.hover-opacity:hover {
+    opacity: 0.7;
+}
